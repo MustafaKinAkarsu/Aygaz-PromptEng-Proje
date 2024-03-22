@@ -1,0 +1,42 @@
+prompt 1
+
+Bir ön web geliştiricisi olarak hareket etmenizi istiyorum. 
+Proje için şu araçları kullanarak yeni bir web sitesi kodlayacaksınız: 
+HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript. 
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir. 
+HTML, CSS ve Javascript kodlarini ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz. 
+Yazdığınız kodların hiçbirine açıklama yapmayın. 
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+prompt 2
+
+Bir  aydınlatma satan şirketim var ve aydınlatma çeşitlerimi sergileyeceğim web sitesi oluşturmak istiyorum. Bu websitesi bir porfolio galeri web sitesi olacak.
+Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+Sayfamın header bölümünde bir logo olmasını istiyorum ve aynı şekilde bu logodan bir adette footer bölümünde olmasini istiyorum.
+Sayfa tasarımında 4 satırda, lamba çeşidinin başlığı ve altında resimleri olacak şekilde bir düzen istiyorum. Lamba çeşidi başlıkları sırası ile; Heading Lamps, Floor Lamps, LED Lighting ve Reading Lamps olacak. 
+Resim içeriğinin kaydırıcı (slider) galeri görünümünde, her bir satırda toplamda 6 adet, ana ekranda ilk 4 resmin göründüğü, kullanıcının kaydırma hareketiyle sağa ve sola giderek kalan resimleri görebileceği şekilde olmak üzere 200x300 boyutlarında resimler yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum. 
+Resimler, her çeşit için, çeşit isminin olduğu klasör içerisinde, image1.jpg, image2.jpg, image3.jpg, image4.jpg, image5.jpg ve image6.jpg şeklinde isimlendirilmiştir.
+Kod içerisinde, resimler için ilgili başlığın bulunduğu klasör içerisinden her satır için 6 resim de eklenmelidir.
+Resimlerin üzerine gelindiğinde bir geçiş efektine sahip olması güzel bir detay olur.
+Bana bu web sitesini oluşturmada yardımcı olur musun ?
+
+prompt 3
+
+CSS ve JavaScript dosyalarını da yazmanı istiyorum. Ayrıca resimleri de eklemeni istiyorum.
+Her bir satır için ana ekranda 4 resmin görüneceği, geri kalan resimlerin kullanıcının kaydırma işlemi kullanarak gözükebileceği bir kaydırma sistemi de ekler misin? 
+Ayrıca resim boyutlarının kırpılmamasını istiyorum
+
+prompt 4
+
+Sayfanın footer kısmına, instagram, linkedIn ve pinterest hesaplarını bağlayabileceğim, her birinin ikonlarının olduğu ve tıklanan ikonların sırası ile https://www.instagram.com/instagram/ , https://www.linkedin.com/in/mustafa-akarsu/ ve https://tr.pinterest.com/ adreslerine bağlanmasını ve bu ikonların tıklanabilir olmasını ve tıklandığında ilgili bağlantıya gitmesini sağlar mısın?
+Ikonların boyutunu sayfadaki diğer elementlere göre kod içerisinde oranla.
+Ayrıca sayfanın footer kısmına, telif hakkı bildirimi de ekleyebilir misin?
+
+prompt 5
+
+Şuanki hali ile, sosyal medya ikonları footer kısmında çok fazla yer kaplıyor. Bu ikonların boyutunu 50x50 olacak şekilde ayarlar mısın?
+Footerda bulunan logonun pozisyonunun sağ alt köşede olmasını istiyorum.
+Footerda bulunan sosyal medya ikonlarının pozisyonlarını korumasını istiyorum.
